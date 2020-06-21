@@ -5,3 +5,7 @@
   - Start updates
   - Disable updates
   - Delete downloaded updates files
+
+#### Taskkill
+  - Run as admin
+  - Kill all running processes
